@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
     backgroundColor:"#fff"
   },
   statusbar:{
-    margin:30,
+    marginTop:30,
+    marginLeft:30,
     height:'10%'
   },
   titleText:{
